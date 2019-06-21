@@ -3,7 +3,7 @@ This document is for data from OR-Library (http://people.brunel.ac.uk/~mastjjb/j
 The data in each instances can be categoried as three parts as follows:
 1) The number at the top indicates the available amount of assets.
 2) The tow-columns data indicates the expected return (/mu_i) and standard deviation (/sigma_i) repectively for each asset.
-3) The three-columns data data denotes the correlation coefficient (/ro_{i,j}) between asset i and j.
+3) The three-columns data denotes the correlation coefficient (/ro_{i,j}) between asset i and j.
 
 In addition, the ef.txt is the obtained Unconstrained Pareto Front of each data.
 
