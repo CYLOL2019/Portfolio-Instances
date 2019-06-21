@@ -24,3 +24,6 @@ port 12        USA     NASDQ  Telecom             139
 port 13        USA      NYSE   US100               94
 port 14        USA      NYSE   World              170
 port 15        USA       S&P    500               469
+
+
+
